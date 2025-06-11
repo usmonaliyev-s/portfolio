@@ -26,7 +26,7 @@ Welcome to the source code of my personal portfolio website, [usmonaliyev.com.uz
 Aspiring Data Scientist & AI Developer  
 📍 Fergana, Uzbekistan
 
-- GitHub: [@usmonaliyev-uz](https://github.com/usmonaliyev-uz)
+- GitHub: [@usmonaliyev-s](https://github.com/usmonaliyev-s)
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/salohiddin-usmonaliyev-b3144036a/)  
 - Telegram: [@salohiddinusmonaliyev](https://t.me/salohiddinusmonaliyev)
 
