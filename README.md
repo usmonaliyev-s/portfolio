@@ -27,7 +27,7 @@ Aspiring Data Scientist & AI Developer
 📍 Fergana, Uzbekistan
 
 - GitHub: [@usmonaliyev-s](https://github.com/usmonaliyev-s)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/salohiddin-usmonaliyev-b3144036a/)  
+- LinkedIn: [linkedin.com/in/salohiddin-usmonaliyev](https://www.linkedin.com/in/salohiddin-usmonaliyev-b3144036a/)  
 - Telegram: [@salohiddinusmonaliyev](https://t.me/salohiddinusmonaliyev)
 
 ## 📬 Contact
