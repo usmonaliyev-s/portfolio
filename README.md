@@ -34,4 +34,4 @@ Aspiring Data Scientist & AI Developer
 
 Feel free to reach out for collaboration, job opportunities, or just to connect!
 
-📧 Email: `email@usmonaliyev.uz`
+📧 Email: `admin@usmonaliyev.uz`
