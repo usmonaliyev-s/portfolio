@@ -18,7 +18,7 @@ Welcome to the source code of my personal portfolio website, [usmonaliyev.uz](ht
 
 ## 🔗 Live Demo
 
-🌐 [usmonaliyev.com.uz](https://usmonaliyev.uz)
+🌐 [usmonaliyev.uz](https://usmonaliyev.uz)
 
 ## 🧑‍💻 Author
 
