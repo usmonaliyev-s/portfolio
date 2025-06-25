@@ -36,7 +36,7 @@ Version      : 1.0
 :root {
     --main-color: #444;
     --heading-color: #000;
-    --primary-color: #448C74;
+    --primary-color: #0a1833;
     --lighter-color: #444;
     --subtitle-color: #444;
     --black-color: #000;
@@ -1283,7 +1283,7 @@ html {
 }
 
 .about-image-part img {
-	border: 2px dashed #448C74;
+	border: 2px dashed #0a1833;
 	padding:10px;
 	border-radius: 50%;
 	margin-bottom: 30px;
@@ -1342,7 +1342,7 @@ color: transparent;
 .adress-field ul li {}
 
 .adress-field ul li i {
-    color: #448C74;
+    color: #0a1833;
     margin-right: 10px;
     font-size: 13px;
 }
@@ -1515,7 +1515,7 @@ color: transparent;
 
 .service-item i {
     font-size: 60px;
-    color: #448C74;
+    color: #0a1833;
     -webkit-transition: 0.5s;
     transition: 0.5s;
 }
