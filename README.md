@@ -1,6 +1,6 @@
 # 🌐 Usmonaliyev's Portfolio
 
-Welcome to the source code of my personal portfolio website, [usmonaliyev.com.uz](https://usmonaliyev.com.uz)! This site serves as a digital showcase of my skills, projects, certifications, and professional background in software development, data science, and artificial intelligence.
+Welcome to the source code of my personal portfolio website, [usmonaliyev.uz](https://usmonaliyev.uz)! This site serves as a digital showcase of my skills, projects, certifications, and professional background in software development, data science, and artificial intelligence.
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ Welcome to the source code of my personal portfolio website, [usmonaliyev.com.uz
 
 ## 🔗 Live Demo
 
-🌐 [usmonaliyev.com.uz](https://usmonaliyev.com.uz)
+🌐 [usmonaliyev.uz](https://usmonaliyev.uz)
 
 ## 🧑‍💻 Author
 
@@ -27,11 +27,11 @@ Aspiring Data Scientist & AI Developer
 📍 Fergana, Uzbekistan
 
 - GitHub: [@usmonaliyev-s](https://github.com/usmonaliyev-s)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/salohiddin-usmonaliyev-b3144036a/)  
+- LinkedIn: [linkedin.com/in/salohiddin-usmonaliyev](https://www.linkedin.com/in/salohiddin-usmonaliyev-b3144036a/)  
 - Telegram: [@salohiddinusmonaliyev](https://t.me/salohiddinusmonaliyev)
 
 ## 📬 Contact
 
 Feel free to reach out for collaboration, job opportunities, or just to connect!
 
-📧 Email: `mail@usmonaliyev.com.uz`
+📧 Email: `admin@usmonaliyev.uz`
